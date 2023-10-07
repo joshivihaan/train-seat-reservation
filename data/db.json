@@ -1,0 +1,37 @@
+{
+  "availableSeats": 72,
+  "reservedSeats": [
+    {
+      "seatNumber": 80,
+      "reservationId": "6707875003"
+    },
+    {
+      "seatNumber": 79,
+      "reservationId": "6707875003"
+    },
+    {
+      "seatNumber": 78,
+      "reservationId": "6707948050"
+    },
+    {
+      "seatNumber": 77,
+      "reservationId": "6707948050"
+    },
+    {
+      "seatNumber": 76,
+      "reservationId": "6707948050"
+    },
+    {
+      "seatNumber": 75,
+      "reservationId": "6707948050"
+    },
+    {
+      "seatNumber": 74,
+      "reservationId": "6707948050"
+    },
+    {
+      "seatNumber": 73,
+      "reservationId": "6707948050"
+    }
+  ]
+}
