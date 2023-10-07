@@ -7,9 +7,7 @@
   	"start": "node server/index.js",
 	"build": "cd client && npm install && npm run build"
   },
-  "engines": {
-  	"node": "14.15.4"
-  },
+  "engines": { "node": "18.x" }
   "proxy": "http://localhost:3001",
   "keywords": [],
   "author": "",
